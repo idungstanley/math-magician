@@ -42,6 +42,13 @@ npm start
 - Twitter: [@IdungStanley](https://twitter.com/IdungStanley)
 - LinkedIn: [Stanley Idung Sunday](https://www.linkedin.com/in/sundaystanley56/)
 
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](https://github.com/idungstanley/math-magician/issues).
+
+## Show your support
+Give a ⭐️ if you like this project!
+
 
 ## Show your support  
 
