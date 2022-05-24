@@ -1,11 +1,6 @@
-import React, { Component } from 'react';
-
-class Calculator extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {};
-  }
-
+import React from 'react';
+// eslint-disable-next-line react/prefer-stateless-function
+export default class Calculator extends React.Component {
   render() {
     return (
       <section className="main">
@@ -33,5 +28,3 @@ class Calculator extends React.Component {
     );
   }
 }
-
-export default Calculator;
