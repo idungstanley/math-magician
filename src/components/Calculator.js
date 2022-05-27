@@ -2,13 +2,13 @@ import React, { useState } from 'react';
 import calculate from '../logic/calculator';
 // eslint-disable-next-line react/prefer-stateless-function
 const Calculator = () => {
-  const startState = {
+  const baseState = {
     total: 0,
     next: null,
     operation: null,
   };
 
-  const [state, setState] = useState(startState);
+  const [state, setState] = useState(baseState);
   const { total, next, operation } = state;
 
   const handleEvent = (event) => {
