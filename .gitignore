@@ -2,3 +2,5 @@ node_modules/
 .hintrc/
 cors-anywhere
 __tests__/coverage
+# Local Netlify folder
+.netlify
